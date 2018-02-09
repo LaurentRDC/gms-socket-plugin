@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FaradayPlugIn", "FaradayPlugIn.vcproj", "{80125446-B78A-4E9C-A0B6-D908045D73AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		ReleaseNoOpt|Win32 = ReleaseNoOpt|Win32
+		ReleaseNoOpt|x64 = ReleaseNoOpt|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80125446-B78A-4E9C-A0B6-D908045D73AC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{80125446-B78A-4E9C-A0B6-D908045D73AC}.Debug|Win32.Build.0 = Debug|Win32
+		{80125446-B78A-4E9C-A0B6-D908045D73AC}.Debug|x64.ActiveCfg = Debug|x64
+		{80125446-B78A-4E9C-A0B6-D908045D73AC}.Debug|x64.Build.0 = Debug|x64
+		{80125446-B78A-4E9C-A0B6-D908045D73AC}.Release|Win32.ActiveCfg = Release|Win32
+		{80125446-B78A-4E9C-A0B6-D908045D73AC}.Release|Win32.Build.0 = Release|Win32
+		{80125446-B78A-4E9C-A0B6-D908045D73AC}.Release|x64.ActiveCfg = Release|x64
+		{80125446-B78A-4E9C-A0B6-D908045D73AC}.Release|x64.Build.0 = Release|x64
+		{80125446-B78A-4E9C-A0B6-D908045D73AC}.ReleaseNoOpt|Win32.ActiveCfg = ReleaseNoOpt|Win32
+		{80125446-B78A-4E9C-A0B6-D908045D73AC}.ReleaseNoOpt|Win32.Build.0 = ReleaseNoOpt|Win32
+		{80125446-B78A-4E9C-A0B6-D908045D73AC}.ReleaseNoOpt|x64.ActiveCfg = ReleaseNoOpt|x64
+		{80125446-B78A-4E9C-A0B6-D908045D73AC}.ReleaseNoOpt|x64.Build.0 = ReleaseNoOpt|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
