@@ -7,7 +7,7 @@ TCP/IP socket, which can then be used to communicate with the outside world.
 Installation
 ------------
 
-The plug-in .dll must be placed in C:\ProgramData\Gatan\Plugins.
+The plug-in :code:`.dll` must be placed in C:\\ProgramData\\Gatan\\Plugins.
 
 API Reference
 -------------
@@ -62,7 +62,7 @@ This is a simple example of sending a message::
 Support / Report Issues
 -----------------------
 
-Please e-mail `decotret@physics.mcgill.ca <mailto:decotret@physics.mcgill.ca>`_ if you are experiencing
+Please e-mail `laurent.renedecotret@mail.mcgill.ca <mailto:laurent.renedecotret@mail.mcgill.ca>`_ if you are experiencing
 trouble, or if you would like a new feature.
 
 License
